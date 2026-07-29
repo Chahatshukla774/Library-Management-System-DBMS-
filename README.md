@@ -1,7 +1,7 @@
 # Library Management System
 
 ## Description
--This is a Library Management System developed using MySQL and MySQL Workbench.
+- This is a Library Management System developed using MySQL and MySQL Workbench.
 
 ## Features
 - Add Books
